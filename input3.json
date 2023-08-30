@@ -1,0 +1,11 @@
+{
+  "ctx": "d4ba552d-c971-4b92-a334-a7a01d958e85",
+  "artifact": {
+    "id": "org.jogamp.jogl:jogl-all:jar:natives-android-armv6:2.3.2",
+    "processor": "maven",
+    "root": false,
+    "config": {
+
+    }
+  }
+}
